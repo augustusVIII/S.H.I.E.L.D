@@ -1,5 +1,6 @@
 # S.H.I.E.L.D
-S.H.I.E.L.D is a security-based project that is created by 3 high-school students using Raspberry Pi
+S.H.I.E.L.D is a security-based project that is created by 3 high-school students using Raspberry Pi.  
+It represent a security door, if user type in the right password then the door will open.  
 
 ## How to use
 
