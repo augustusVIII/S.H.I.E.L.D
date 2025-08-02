@@ -21,7 +21,6 @@ except RequestError:
 led = LED(17)
 buzzer = Buzzer(18)
 sensor = DistanceSensor(echo=24, trigger=23)
-servo = Servo(3)
 
 # SQLite
 def init_db():
