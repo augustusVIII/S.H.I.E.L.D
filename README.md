@@ -11,7 +11,7 @@ S.H.I.E.L.D is a security-based project that is created by 3 high-school student
 - Right password --> Servo spin for 2 second, program stop, LED off.
 - Wrong password --> Buzzer buzz for 5 second, program stop.
 
-## File  
+## Files  
 
 - final_project.py: main code.  
 - password_log.py: read password database.  
